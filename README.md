@@ -102,7 +102,7 @@ Each model generates:
 
 **Arnab Deka**  
 ECE, IIT Guwahati'28
-[GitHub](https://github.com/yourusername) · [Colab](https://colab.research.google.com/drive/1EJVB5KEEsG_vzsu49-3Oofi5fG1qThDV?usp=sharing)
+[GitHub](https://github.com/gh-arnab21) · [Colab](https://colab.research.google.com/drive/1EJVB5KEEsG_vzsu49-3Oofi5fG1qThDV?usp=sharing)
 
 ---
 
