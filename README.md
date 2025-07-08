@@ -1,4 +1,4 @@
-# 🚗 Real-Time Dynamic Parking Pricing Dashboard
+# 🚗 Dynamic Pricing for Urban Parking Lots
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EJVB5KEEsG_vzsu49-3Oofi5fG1qThDV?usp=sharing)
 
